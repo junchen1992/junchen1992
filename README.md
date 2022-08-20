@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chen Jun (Jason), a QS50 Master of Computing,
+I'm Chen Jun (Jason),
 
 - 🔭 I’m currently working on a NLP based project.
 - 🌱 I’m currently learning Deep Learning.
