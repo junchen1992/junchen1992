@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <a href="https://github.com/junchen1992/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/junchen1992/iBeats/main/files/heart.svg"/></a>
 
 I'm Chen Jun (Jason),
 
