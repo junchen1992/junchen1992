@@ -2,9 +2,8 @@
 
 I'm Chen Jun (Jason),
 
-- 🔭 I’m currently working on various AI projects.
-- 🌱 I’m currently learning Deep Learning.
+- 🔭 I’m currently working as an AI Engineer.
 - 👯 I’m looking to collaborate on Open Source projects with Python.
-- 💬 Ask me about Python development, System Design etc.
+- 💬 Ask me about Python Development, System Design etc.
 - 📫 How to reach me: jason.junchen1992@gmail.com
 - ⚡ Fun fact: Let me think ...
